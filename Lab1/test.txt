@@ -1,4 +1,8 @@
 hhghghgftffgfg
 asdafsafsafassafdaf
 zcscscscscscsczscxxcz
+<<<<<<< HEAD
 dong nay sua khac web
+=======
+dong nay sua
+>>>>>>> d79055dddf74a9e9cc089312c92e58a7a9693e03
